@@ -83,3 +83,4 @@ ModelManifest.xml
 
 .vs
 .vscode
+__pycache__
